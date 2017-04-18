@@ -11,7 +11,7 @@ namespace Toggle\Goutte;
 
 use Illuminate\Support\Facades\Facade;
 
-git st
+
 class GoutteFacade extends Facade
 {
 
