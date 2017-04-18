@@ -10,6 +10,7 @@
 namespace Toggle\Goutte;
 
 use Illuminate\Support\ServiceProvider;
+use Toggle\Goutte\Goutte;
 
 class GoutteServiceProvider extends ServiceProvider
 {
