@@ -25,11 +25,6 @@
   "autoload": {
     "psr-4": {
       "Toggle\\Goutte\\": "src/"
-    },
-    "extra": {
-      "branch-alias": {
-        "dev-master": "v1.0.0-alpha"
-      }
     }
   }
 }
